@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exsrises-oparition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+309d79534a88ad33a42ec4c06b3a14700f9a71de")]
 [assembly: System.Reflection.AssemblyProductAttribute("exsrises-oparition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exsrises-oparition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
