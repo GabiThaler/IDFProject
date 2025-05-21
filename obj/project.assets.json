@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gmth0\\Desktop\\gabi_kodcod\\exsrises-oparition\\exsrises-oparition\\exsrises-oparition.csproj",
+      "projectUniqueName": "C:\\Users\\gmth0\\Desktop\\gabi_kodcod\\exsrises-operation\\exsrises-oparition\\exsrises-oparition.csproj",
       "projectName": "exsrises-oparition",
-      "projectPath": "C:\\Users\\gmth0\\Desktop\\gabi_kodcod\\exsrises-oparition\\exsrises-oparition\\exsrises-oparition.csproj",
+      "projectPath": "C:\\Users\\gmth0\\Desktop\\gabi_kodcod\\exsrises-operation\\exsrises-oparition\\exsrises-oparition.csproj",
       "packagesPath": "C:\\Users\\gmth0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gmth0\\Desktop\\gabi_kodcod\\exsrises-oparition\\exsrises-oparition\\obj\\",
+      "outputPath": "C:\\Users\\gmth0\\Desktop\\gabi_kodcod\\exsrises-operation\\exsrises-oparition\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
