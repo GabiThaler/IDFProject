@@ -1,12 +1,17 @@
-﻿using System;
+﻿using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 
-namespace IDFProgect
+namespace IDFProgect.models
 {
-    class progrem
+    class Progrem
     {
-        public void Main(string[] args)
+        static void Main(string[] args)
         {
+            //Idf i1 = new Idf();
+            Console.WriteLine("jbhgjbkm");
 
         }
     }

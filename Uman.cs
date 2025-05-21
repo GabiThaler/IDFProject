@@ -1,14 +1,17 @@
-﻿using System;
+﻿using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 
-namespace IDFProgect
+namespace IDFProgect.models
 {
-    public abstract class uman
+    public abstract class Uman
     {
         string Name;
         int Age;
 
-        public uman(string name, int age)
+        public Uman(string name, int age)
         {
             Name = name;
             Age = age;
