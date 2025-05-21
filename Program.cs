@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+
+namespace IDFProgect
+{
+    class progrem
+    {
+        public void Main(string[] args)
+        {
+
+        }
+    }
+}
