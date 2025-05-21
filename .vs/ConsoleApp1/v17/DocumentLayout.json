@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gmth0\\Desktop\\gabi_kodcod\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BA899AD1-55F4-4453-BA61-0845445FB243}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gmth0\\desktop\\gabi_kodcod\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA899AD1-55F4-4453-BA61-0845445FB243}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA899AD1-55F4-4453-BA61-0845445FB243}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gmth0\\desktop\\gabi_kodcod\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA899AD1-55F4-4453-BA61-0845445FB243}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\Users\\gmth0\\Desktop\\gabi_kodcod\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\gmth0\\Desktop\\gabi_kodcod\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T12:23:38.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gmth0\\Desktop\\gabi_kodcod\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
